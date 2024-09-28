@@ -1,3 +1,6 @@
+# SF-YOLO [ECCV2024]
+This repository contains the code used for our work, **'Source-Free Domain Adaptation for YOLO Object Detection,'** presented at the *ECCV 2024 Workshop on Out-of-Distribution Generalization in Computer Vision Foundation Models*. You can find our paper [here](https://arxiv.org/abs/2409.16538).
+
 Here is an example of using SF-YOLO for the Cityscapes to Foggy Cityscapes scenario.
 ### SF-YOLO installation
 
